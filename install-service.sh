@@ -10,5 +10,5 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
-Also=nscd.socket
+# Also=nscd.socket
 "
