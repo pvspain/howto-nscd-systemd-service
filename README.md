@@ -8,7 +8,7 @@ Check you have nscd installed:
 nscd --version || apt list nscd
 ```
 
-If not, you can install PHP:
+If not, you can install NSCD:
 
 ```
 sudo apt update && sudo apt install -y nscd
