@@ -1,6 +1,9 @@
 # howto-nscd-systemd-service
 
-I am using Ubuntu 18.04.1 LTS
+I am using Ubuntu 18.04.2 LTS
+```
+cat /etc/issue*
+```
 
 Check you have nscd installed:
 
